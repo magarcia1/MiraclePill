@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B9F07DF51DDB7EF20007E757 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F07DF41DDB7EF20007E757 /* AppDelegate.swift */; };
-		B9F07DF71DDB7EF20007E757 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F07DF61DDB7EF20007E757 /* ViewController.swift */; };
-		B9F07DFA1DDB7EF20007E757 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9F07DF81DDB7EF20007E757 /* Main.storyboard */; };
-		B9F07DFC1DDB7EF20007E757 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9F07DFB1DDB7EF20007E757 /* Assets.xcassets */; };
-		B9F07DFF1DDB7EF20007E757 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9F07DFD1DDB7EF20007E757 /* LaunchScreen.storyboard */; };
+		89B88E501D33495F00EA1578 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B88E4F1D33495F00EA1578 /* AppDelegate.swift */; };
+		89B88E521D33495F00EA1578 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B88E511D33495F00EA1578 /* ViewController.swift */; };
+		89B88E551D33495F00EA1578 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89B88E531D33495F00EA1578 /* Main.storyboard */; };
+		89B88E571D33495F00EA1578 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89B88E561D33495F00EA1578 /* Assets.xcassets */; };
+		89B88E5A1D33495F00EA1578 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89B88E581D33495F00EA1578 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B9F07DF11DDB7EF20007E757 /* MiraclePill.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiraclePill.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B9F07DF41DDB7EF20007E757 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B9F07DF61DDB7EF20007E757 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		B9F07DF91DDB7EF20007E757 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B9F07DFB1DDB7EF20007E757 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B9F07DFE1DDB7EF20007E757 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		B9F07E001DDB7EF20007E757 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89B88E4C1D33495F00EA1578 /* MiraclePill.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiraclePill.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		89B88E4F1D33495F00EA1578 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		89B88E511D33495F00EA1578 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		89B88E541D33495F00EA1578 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		89B88E561D33495F00EA1578 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		89B88E591D33495F00EA1578 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		89B88E5B1D33495F00EA1578 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B9F07DEE1DDB7EF20007E757 /* Frameworks */ = {
+		89B88E491D33495F00EA1578 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,31 +35,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B9F07DE81DDB7EF20007E757 = {
+		89B88E431D33495F00EA1578 = {
 			isa = PBXGroup;
 			children = (
-				B9F07DF31DDB7EF20007E757 /* MiraclePill */,
-				B9F07DF21DDB7EF20007E757 /* Products */,
+				89B88E4E1D33495F00EA1578 /* MiraclePill */,
+				89B88E4D1D33495F00EA1578 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B9F07DF21DDB7EF20007E757 /* Products */ = {
+		89B88E4D1D33495F00EA1578 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B9F07DF11DDB7EF20007E757 /* MiraclePill.app */,
+				89B88E4C1D33495F00EA1578 /* MiraclePill.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B9F07DF31DDB7EF20007E757 /* MiraclePill */ = {
+		89B88E4E1D33495F00EA1578 /* MiraclePill */ = {
 			isa = PBXGroup;
 			children = (
-				B9F07DF41DDB7EF20007E757 /* AppDelegate.swift */,
-				B9F07DF61DDB7EF20007E757 /* ViewController.swift */,
-				B9F07DF81DDB7EF20007E757 /* Main.storyboard */,
-				B9F07DFB1DDB7EF20007E757 /* Assets.xcassets */,
-				B9F07DFD1DDB7EF20007E757 /* LaunchScreen.storyboard */,
-				B9F07E001DDB7EF20007E757 /* Info.plist */,
+				89B88E4F1D33495F00EA1578 /* AppDelegate.swift */,
+				89B88E511D33495F00EA1578 /* ViewController.swift */,
+				89B88E531D33495F00EA1578 /* Main.storyboard */,
+				89B88E561D33495F00EA1578 /* Assets.xcassets */,
+				89B88E581D33495F00EA1578 /* LaunchScreen.storyboard */,
+				89B88E5B1D33495F00EA1578 /* Info.plist */,
 			);
 			path = MiraclePill;
 			sourceTree = "<group>";
@@ -67,13 +67,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B9F07DF01DDB7EF20007E757 /* MiraclePill */ = {
+		89B88E4B1D33495F00EA1578 /* MiraclePill */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B9F07E031DDB7EF20007E757 /* Build configuration list for PBXNativeTarget "MiraclePill" */;
+			buildConfigurationList = 89B88E5E1D33495F00EA1578 /* Build configuration list for PBXNativeTarget "MiraclePill" */;
 			buildPhases = (
-				B9F07DED1DDB7EF20007E757 /* Sources */,
-				B9F07DEE1DDB7EF20007E757 /* Frameworks */,
-				B9F07DEF1DDB7EF20007E757 /* Resources */,
+				89B88E481D33495F00EA1578 /* Sources */,
+				89B88E491D33495F00EA1578 /* Frameworks */,
+				89B88E4A1D33495F00EA1578 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -81,27 +81,28 @@
 			);
 			name = MiraclePill;
 			productName = MiraclePill;
-			productReference = B9F07DF11DDB7EF20007E757 /* MiraclePill.app */;
+			productReference = 89B88E4C1D33495F00EA1578 /* MiraclePill.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B9F07DE91DDB7EF20007E757 /* Project object */ = {
+		89B88E441D33495F00EA1578 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0810;
+				LastSwiftUpdateCheck = 0800;
 				LastUpgradeCheck = 0810;
-				ORGANIZATIONNAME = GCC;
+				ORGANIZATIONNAME = Devslopes;
 				TargetAttributes = {
-					B9F07DF01DDB7EF20007E757 = {
-						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = FPM9M4G2RP;
+					89B88E4B1D33495F00EA1578 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = NUW936ZHH8;
+						DevelopmentTeamName = "Devslopes, LLC";
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = B9F07DEC1DDB7EF20007E757 /* Build configuration list for PBXProject "MiraclePill" */;
+			buildConfigurationList = 89B88E471D33495F00EA1578 /* Build configuration list for PBXProject "MiraclePill" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -109,54 +110,54 @@
 				en,
 				Base,
 			);
-			mainGroup = B9F07DE81DDB7EF20007E757;
-			productRefGroup = B9F07DF21DDB7EF20007E757 /* Products */;
+			mainGroup = 89B88E431D33495F00EA1578;
+			productRefGroup = 89B88E4D1D33495F00EA1578 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B9F07DF01DDB7EF20007E757 /* MiraclePill */,
+				89B88E4B1D33495F00EA1578 /* MiraclePill */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		B9F07DEF1DDB7EF20007E757 /* Resources */ = {
+		89B88E4A1D33495F00EA1578 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9F07DFF1DDB7EF20007E757 /* LaunchScreen.storyboard in Resources */,
-				B9F07DFC1DDB7EF20007E757 /* Assets.xcassets in Resources */,
-				B9F07DFA1DDB7EF20007E757 /* Main.storyboard in Resources */,
+				89B88E5A1D33495F00EA1578 /* LaunchScreen.storyboard in Resources */,
+				89B88E571D33495F00EA1578 /* Assets.xcassets in Resources */,
+				89B88E551D33495F00EA1578 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B9F07DED1DDB7EF20007E757 /* Sources */ = {
+		89B88E481D33495F00EA1578 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9F07DF71DDB7EF20007E757 /* ViewController.swift in Sources */,
-				B9F07DF51DDB7EF20007E757 /* AppDelegate.swift in Sources */,
+				89B88E521D33495F00EA1578 /* ViewController.swift in Sources */,
+				89B88E501D33495F00EA1578 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		B9F07DF81DDB7EF20007E757 /* Main.storyboard */ = {
+		89B88E531D33495F00EA1578 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				B9F07DF91DDB7EF20007E757 /* Base */,
+				89B88E541D33495F00EA1578 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		B9F07DFD1DDB7EF20007E757 /* LaunchScreen.storyboard */ = {
+		89B88E581D33495F00EA1578 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				B9F07DFE1DDB7EF20007E757 /* Base */,
+				89B88E591D33495F00EA1578 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -164,7 +165,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		B9F07E011DDB7EF20007E757 /* Debug */ = {
+		89B88E5C1D33495F00EA1578 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -182,7 +183,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -204,7 +205,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -214,7 +215,7 @@
 			};
 			name = Debug;
 		};
-		B9F07E021DDB7EF20007E757 /* Release */ = {
+		89B88E5D1D33495F00EA1578 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -232,7 +233,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -248,7 +249,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -257,27 +258,25 @@
 			};
 			name = Release;
 		};
-		B9F07E041DDB7EF20007E757 /* Debug */ = {
+		89B88E5F1D33495F00EA1578 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FPM9M4G2RP;
 				INFOPLIST_FILE = MiraclePill/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.output-mn.magarcia1.MiraclePill";
+				PRODUCT_BUNDLE_IDENTIFIER = com.devslopes.MiraclePill;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
-		B9F07E051DDB7EF20007E757 /* Release */ = {
+		89B88E601D33495F00EA1578 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FPM9M4G2RP;
 				INFOPLIST_FILE = MiraclePill/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.output-mn.magarcia1.MiraclePill";
+				PRODUCT_BUNDLE_IDENTIFIER = com.devslopes.MiraclePill;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -286,24 +285,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B9F07DEC1DDB7EF20007E757 /* Build configuration list for PBXProject "MiraclePill" */ = {
+		89B88E471D33495F00EA1578 /* Build configuration list for PBXProject "MiraclePill" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B9F07E011DDB7EF20007E757 /* Debug */,
-				B9F07E021DDB7EF20007E757 /* Release */,
+				89B88E5C1D33495F00EA1578 /* Debug */,
+				89B88E5D1D33495F00EA1578 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B9F07E031DDB7EF20007E757 /* Build configuration list for PBXNativeTarget "MiraclePill" */ = {
+		89B88E5E1D33495F00EA1578 /* Build configuration list for PBXNativeTarget "MiraclePill" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B9F07E041DDB7EF20007E757 /* Debug */,
-				B9F07E051DDB7EF20007E757 /* Release */,
+				89B88E5F1D33495F00EA1578 /* Debug */,
+				89B88E601D33495F00EA1578 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B9F07DE91DDB7EF20007E757 /* Project object */;
+	rootObject = 89B88E441D33495F00EA1578 /* Project object */;
 }
